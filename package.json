@@ -1,0 +1,30 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "description": "Programmer's portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building...\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaszo18/FajnyJavaScript.git"
+  },
+  "keywords": [
+    "programmer, portfolio"
+  ],
+  "author": "Mike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaszo18/FajnyJavaScript/issues"
+  },
+  "homepage": "https://github.com/michaszo18/FajnyJavaScript#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
